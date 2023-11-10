@@ -1,4 +1,4 @@
-import tkinter as tk
+oimport tkinter as tk
 from PIL import Image, ImageTk
 from tkinter import messagebox
 
@@ -46,7 +46,7 @@ def button_click(action):
         pass
 
     # Show the message popup
-    messagebox.showinfo("", "All set! We are on our way, and you will be attended to shortly.")
+    messagebox.showinfo("All set!", "We are on our way, and you will be attended to shortly.")
 
 # Run in a loop
 root.mainloop()
