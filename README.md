@@ -20,6 +20,3 @@ Before running the app, install the Python libraries:
 
 ```bash
 pip install tkinter pillow
-
-```bash
-python receptech.py
