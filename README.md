@@ -1,6 +1,6 @@
 # RecepTech
 
-Welcome to your custom virtual receptionist app!
+Say hello to your new virtual receptionist!
 
 ## Description
 
