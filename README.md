@@ -14,7 +14,7 @@ You can use it as a starting point for your project and customize everything. It
 - Simplifies visitor interaction and engagement
 - Easily customizable actions for each button
 
-## Installing Prerequisites
+## Install Prerequisites
 
 ```bash
 pip install tkinter pillow
